@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf962dba-3bd1-42e9-95ea-c1c153f469c0" name="Changes" comment="">
+    <list default="true" id="0be902de-fce2-4d9c-a6fd-d46b57cab3b9" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/BinarySearchAlgorithm_10/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/BinarySearchAlgorithm_10/OrderAgnosticBinarySearch.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java/src/IntroductionToArraysAndArrayList_08/Learning/ArrayListExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java/src/IntroductionToArraysAndArrayList_08/Learning/MultiArrayList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java/src/IntroductionToArraysAndArrayList_08/Learning/MultiDimensionalArray.java" afterDir="false" />
@@ -11,25 +13,25 @@
       <change afterPath="$PROJECT_DIR$/../Java/src/IntroductionToArraysAndArrayList_08/Questions/SwappingAndReversingValuesInArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java/src/IntroductionToArraysAndArrayList_08/Questions/reversingNumberUsingRecursion.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java/src/LinearSearchAlgorithm_09/Learning/LinearSearchIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java/src/LinearSearchAlgorithm_09/Questions/ComputeMaxWealth.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java/src/LinearSearchAlgorithm_09/Questions/FindMinInArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java/src/LinearSearchAlgorithm_09/Questions/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java/src/LinearSearchAlgorithm_09/Questions/SearchInRange.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java/src/LinearSearchAlgorithm_09/Questions/SearchInStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlowOfProgram_01/FindLeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlowOfProgram_01/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlowOfProgram_01/SumOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/FlowOfProgram_01/FindLeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/FlowOfProgram_01/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/FlowOfProgram_01/SumOfTwoNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java/out/production/Java/IntroductionToArraysAndArrayList_08/IntroArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +48,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="23vnJ6TZQLnDrdPQCtNTJQy9jJa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="23yJk0Zt2hYu5W94A4s74F9Jj7b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -58,19 +58,16 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.SumOfTwoNumbers">
-    <configuration name="FindLeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlowOfProgram_01.FindLeapYear" />
-      <module name="Practice" />
+  <component name="RunManager" selected="Application.ComputeMaxWealth">
+    <configuration name="ComputeMaxWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ComputeMaxWealth" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FlowOfProgram_01.*" />
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,25 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlowOfProgram_01.MultiplicationTable" />
-      <module name="Practice" />
+    <configuration name="FindNumbersWithEvenNumberOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.FindNumbersWithEvenNumberOfDigits" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FlowOfProgram_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlowOfProgram_01.SumOfTwoNumbers" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FlowOfProgram_01.*" />
+          <option name="PATTERN" value="com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,20 +90,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfTwoNumbers" />
-        <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.FindLeapYear" />
+        <item itemvalue="Application.ComputeMaxWealth" />
+        <item itemvalue="Application.FindNumbersWithEvenNumberOfDigits" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cf962dba-3bd1-42e9-95ea-c1c153f469c0" name="Changes" comment="" />
-      <created>1642623353935</created>
+      <changelist id="0be902de-fce2-4d9c-a6fd-d46b57cab3b9" name="Changes" comment="" />
+      <created>1642700533657</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642623353935</updated>
+      <updated>1642700533657</updated>
     </task>
     <servers />
   </component>
@@ -133,8 +116,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

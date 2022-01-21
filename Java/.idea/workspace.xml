@@ -2,53 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e927935f-04c1-437c-9df1-7244132e480e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalAndLoops_05/Learning/Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalAndLoops_05/Questions/AlphabetCaseChecking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalAndLoops_05/Questions/CalculatorProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalAndLoops_05/Questions/CountRepetitionNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalAndLoops_05/Questions/FindFibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalAndLoops_05/Questions/LargestofThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalAndLoops_05/Questions/ReversingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstJavaProgram_04/Learning/BasicsofLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstJavaProgram_04/Learning/InputsAndPrintNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstJavaProgram_04/Learning/Primitives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstJavaProgram_04/Learning/TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstJavaProgram_04/Questions/ConvertTemperatureCelsiusToFahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstJavaProgram_04/Questions/SumOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlowOfProgram_02/Learning/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlowOfProgram_02/Learning/HelloWorldAndScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlowOfProgram_02/Questions/ComputeSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlowOfProgram_02/Questions/IsPrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionsOrMethods_07/Learning/FunctionOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionsOrMethods_07/Learning/FunctionsOrMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionsOrMethods_07/Learning/Shadowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionsOrMethods_07/Learning/VariableArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionsOrMethods_07/Questions/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionsOrMethods_07/Questions/FindThreeDigitArmstrongNumberBetweenRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionsOrMethods_07/Questions/IsPrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Learning/IntroArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchStatementsAndNesting_06/Learning/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchStatementsAndNesting_06/Questions/DayFinderUsingSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchAlgorithm_10/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchAlgorithm_10/OrderAgnosticBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Learning/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Learning/MultiArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Learning/MultiDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Questions/FindMaximumValuesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Questions/SwappingAndReversingValuesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Questions/reversingNumberUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearchAlgorithm_09/Learning/LinearSearchIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearchAlgorithm_09/Questions/ComputeMaxWealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearchAlgorithm_09/Questions/FindMinInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearchAlgorithm_09/Questions/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearchAlgorithm_09/Questions/SearchInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearchAlgorithm_09/Questions/SearchInStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/src/com/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/FlowOfProgram_01/FindLeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/FlowOfProgram_01/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/FlowOfProgram_01/SumOfTwoNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/LeetCode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Questions/Questions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/IntroductionToArraysAndArrayList_08/IntroArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,15 +64,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.IntroArrays">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsOrMethods_07.Questions.ArmstrongNumber" />
+  <component name="RunManager" selected="Application.ComputeMaxWealth">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchAlgorithm_10.BinarySearch" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionsOrMethods_07.Questions.*" />
+          <option name="PATTERN" value="BinarySearchAlgorithm_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindThreeDigitArmstrongNumberBetweenRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsOrMethods_07.Questions.FindThreeDigitArmstrongNumberBetweenRange" />
+    <configuration name="ComputeMaxWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearSearchAlgorithm_09.Questions.ComputeMaxWealth" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionsOrMethods_07.Questions.*" />
+          <option name="PATTERN" value="LinearSearchAlgorithm_09.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsOrMethods_07.Learning.FunctionOverloading" />
+    <configuration name="FindMaximumValuesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntroductionToArraysAndArrayList_08.Questions.FindMaximumValuesInArray" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionsOrMethods_07.Learning.*" />
+          <option name="PATTERN" value="LinearSearchAlgorithm_09.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntroArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntroductionToArraysAndArrayList_08.Learning.IntroArrays" />
+    <configuration name="LinearSearchIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearSearchAlgorithm_09.Learning.LinearSearchIntro" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IntroductionToArraysAndArrayList_08.Learning.*" />
+          <option name="PATTERN" value="LinearSearchAlgorithm_09.Learning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsOrMethods_07.Questions.IsPrimeNumber" />
+    <configuration name="OrderAgnosticBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchAlgorithm_10.OrderAgnosticBinarySearch" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionsOrMethods_07.Questions.*" />
+          <option name="PATTERN" value="BinarySearchAlgorithm_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IntroArrays" />
-        <item itemvalue="Application.FindThreeDigitArmstrongNumberBetweenRange" />
-        <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.IsPrimeNumber" />
-        <item itemvalue="Application.FunctionOverloading" />
+        <item itemvalue="Application.ComputeMaxWealth" />
+        <item itemvalue="Application.OrderAgnosticBinarySearch" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.LinearSearchIntro" />
+        <item itemvalue="Application.FindMaximumValuesInArray" />
       </list>
     </recent_temporary>
   </component>
