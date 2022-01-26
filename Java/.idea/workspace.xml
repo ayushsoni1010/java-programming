@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e927935f-04c1-437c-9df1-7244132e480e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchAlgorithm_10/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchAlgorithm_10/OrderAgnosticBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Learning/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Learning/MultiArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Learning/MultiDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Questions/FindMaximumValuesInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Questions/SwappingAndReversingValuesInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntroductionToArraysAndArrayList_08/Questions/reversingNumberUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearchAlgorithm_09/Learning/LinearSearchIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearchAlgorithm_09/Questions/ComputeMaxWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearchAlgorithm_09/Questions/FindMinInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearchAlgorithm_09/Questions/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearchAlgorithm_09/Questions/SearchInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearchAlgorithm_09/Questions/SearchInStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/src/com/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/src/FlowOfProgram_01/FindLeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/src/FlowOfProgram_01/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/src/FlowOfProgram_01/SumOfTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchInterviewQuestions_11/CeilingOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchInterviewQuestions_11/FloorOfANumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/IntroductionToArraysAndArrayList_08/IntroArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +41,26 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.ComputeMaxWealth">
+  <component name="RunManager" selected="Application.FloorOfANumber">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchAlgorithm_10.BinarySearch" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BinarySearchAlgorithm_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CeilingOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchInterviewQuestions_11.CeilingOfANumber" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearchInterviewQuestions_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,25 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMaximumValuesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntroductionToArraysAndArrayList_08.Questions.FindMaximumValuesInArray" />
+    <configuration name="FloorOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchInterviewQuestions_11.FloorOfANumber" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinearSearchAlgorithm_09.Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinearSearchIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinearSearchAlgorithm_09.Learning.LinearSearchIntro" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinearSearchAlgorithm_09.Learning.*" />
+          <option name="PATTERN" value="BinarySearchInterviewQuestions_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FloorOfANumber" />
+        <item itemvalue="Application.CeilingOfANumber" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.ComputeMaxWealth" />
         <item itemvalue="Application.OrderAgnosticBinarySearch" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.LinearSearchIntro" />
-        <item itemvalue="Application.FindMaximumValuesInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +133,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
