@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0be902de-fce2-4d9c-a6fd-d46b57cab3b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/BinarySearchAlgorithm_10/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/BinarySearchAlgorithm_10/OrderAgnosticBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/IntroductionToArraysAndArrayList_08/Learning/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/IntroductionToArraysAndArrayList_08/Learning/MultiArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/IntroductionToArraysAndArrayList_08/Learning/MultiDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/IntroductionToArraysAndArrayList_08/Questions/FindMaximumValuesInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/IntroductionToArraysAndArrayList_08/Questions/SwappingAndReversingValuesInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/IntroductionToArraysAndArrayList_08/Questions/reversingNumberUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/LinearSearchAlgorithm_09/Learning/LinearSearchIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/LinearSearchAlgorithm_09/Questions/ComputeMaxWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/LinearSearchAlgorithm_09/Questions/FindMinInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/LinearSearchAlgorithm_09/Questions/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/LinearSearchAlgorithm_09/Questions/SearchInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/src/LinearSearchAlgorithm_09/Questions/SearchInStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/FindNumbersWithEvenNumberOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/src/FlowOfProgram_01/FindLeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/src/FlowOfProgram_01/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/src/FlowOfProgram_01/SumOfTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/out/production/Java/IntroductionToArraysAndArrayList_08/IntroArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
