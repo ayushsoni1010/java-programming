@@ -21,6 +21,10 @@ public class CeilingOfANumber {
         while(start <= end){
 //            find middle element
             int middle = start + (end - start) / 2;
+            if(target > arr[arr.length - 1]){
+                return -1;
+            }
+
             if(target < arr[middle]){
                 end = middle - 1;
             }
@@ -31,6 +35,11 @@ public class CeilingOfANumber {
                 return middle;
             }
         }
+//        end -> Target <- start
+//        condition for while loop violated
+//        start <= end  ==> when while loop breaks
+//                            start = end + 1
+//        next big number, when no answer found = start
         return start;
     }
 }

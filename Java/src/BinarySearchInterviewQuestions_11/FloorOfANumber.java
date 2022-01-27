@@ -15,6 +15,7 @@ public class FloorOfANumber {
 
         while (start <= end){
             int middle = start + (end - start) / 2;
+
             if(target < arr[middle]){
                 end = middle - 1;
             }
@@ -25,6 +26,10 @@ public class FloorOfANumber {
                 return middle;
             }
         }
+//        end -> Target <- start
+//        condition for while loop violated
+//        start <= end  ==> when while loop breaks
+//        before small number, when no answer found = end
         return end;
     }
 }

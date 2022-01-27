@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e927935f-04c1-437c-9df1-7244132e480e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchInterviewQuestions_11/CeilingOfANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchInterviewQuestions_11/FloorOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchInterviewQuestions_11/FindFirstAndLastPositionElementSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchInterviewQuestions_11/FindPeakIndexInMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchInterviewQuestions_11/FindPositionOfAElementInfiniteSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchInterviewQuestions_11/FindSmallestLetterGreaterThanTarget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/BinarySearchInterviewQuestions_11/CeilingOfANumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/BinarySearchInterviewQuestions_11/CeilingOfANumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/BinarySearchInterviewQuestions_11/FloorOfANumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/BinarySearchInterviewQuestions_11/FloorOfANumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearchInterviewQuestions_11/CeilingOfANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchInterviewQuestions_11/CeilingOfANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearchInterviewQuestions_11/FloorOfANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchInterviewQuestions_11/FloorOfANumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +46,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.FloorOfANumber">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearchAlgorithm_10.BinarySearch" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearchAlgorithm_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FindPositionOfAElementInfiniteSortedArray">
     <configuration name="CeilingOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchInterviewQuestions_11.CeilingOfANumber" />
       <module name="Java" />
@@ -68,21 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputeMaxWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinearSearchAlgorithm_09.Questions.ComputeMaxWealth" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinearSearchAlgorithm_09.Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FloorOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearchInterviewQuestions_11.FloorOfANumber" />
+    <configuration name="FindFirstAndLastPositionElementSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchInterviewQuestions_11.FindFirstAndLastPositionElementSortedArray" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -94,12 +73,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderAgnosticBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearchAlgorithm_10.OrderAgnosticBinarySearch" />
+    <configuration name="FindFirstAndLastPositionOfElementInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchInterviewQuestions_11.FindFirstAndLastPositionOfElementInSortedArray" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearchAlgorithm_10.*" />
+          <option name="PATTERN" value="BinarySearchInterviewQuestions_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindPositionOfAElementInfiniteSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchInterviewQuestions_11.FindPositionOfAElementInfiniteSortedArray" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearchInterviewQuestions_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindSmallestLetterGreaterThanTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchInterviewQuestions_11.FindSmallestLetterGreaterThanTarget" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearchInterviewQuestions_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FloorOfANumber" />
+        <item itemvalue="Application.FindPositionOfAElementInfiniteSortedArray" />
+        <item itemvalue="Application.FindFirstAndLastPositionElementSortedArray" />
+        <item itemvalue="Application.FindFirstAndLastPositionOfElementInSortedArray" />
+        <item itemvalue="Application.FindSmallestLetterGreaterThanTarget" />
         <item itemvalue="Application.CeilingOfANumber" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.ComputeMaxWealth" />
-        <item itemvalue="Application.OrderAgnosticBinarySearch" />
       </list>
     </recent_temporary>
   </component>
