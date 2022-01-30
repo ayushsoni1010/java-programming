@@ -1,4 +1,4 @@
-package BinarySearchInterviewQuestions_11;
+package BinarySearchInterviewQuestions_11.Questions;
 
 //https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
@@ -6,7 +6,9 @@ package BinarySearchInterviewQuestions_11;
 
 public class FindPeakIndexInMountainArray {
     public static void main(String[] args) {
-
+        int[] nums = {1,2,3,1};
+        int ans = findPeakIndexInMountain(nums);
+        System.out.println(ans);
     }
     static int findPeakIndexInMountain(int[] arr){
         int start = 0;
