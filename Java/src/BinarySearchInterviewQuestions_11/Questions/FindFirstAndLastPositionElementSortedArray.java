@@ -1,4 +1,4 @@
-package BinarySearchInterviewQuestions_11;
+package BinarySearchInterviewQuestions_11.Questions;
 
 //https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 

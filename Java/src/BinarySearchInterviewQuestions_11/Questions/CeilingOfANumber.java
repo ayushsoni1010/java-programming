@@ -1,4 +1,4 @@
-package BinarySearchInterviewQuestions_11;
+package BinarySearchInterviewQuestions_11.Questions;
 
 public class CeilingOfANumber {
     public static void main(String[] args){
